@@ -32,4 +32,8 @@ const TopUsers = () => {
       </List>
     </Container>
   );
+};
+
+export default TopUsers;
+
 
