@@ -3,7 +3,7 @@ const axios = require('axios');
 
 const app = express();
 const PORT = 5000;
-const BASE_URL = 'http://20.244.56.144/evaluation-service';
+const BASE_URL = 'http://20.244.56.144/evaluation-service/users';
 
 // Utility function to fetch data from the test server
 const fetchData = async (url) => {
